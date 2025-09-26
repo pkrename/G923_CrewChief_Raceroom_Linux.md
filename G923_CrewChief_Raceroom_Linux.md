@@ -1,4 +1,3 @@
-
 # 🎮 Tutorial: Logitech G923 + RaceRoom + CrewChief no Linux (Nobara + Steam + SteamTinkerLaunch)
 
 📅 **Data:** 18/06/2025  
